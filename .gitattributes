@@ -1,0 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+*vocoder.zip filter=lfs diff=lfs merge=lfs -text
